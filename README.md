@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +15,4 @@
 </head>
 <body>
     <h1>About Me - Ram</h1>
-    <p>Hi, I'm Ram from India. Currently pursuing B.Tech in Computer Science.</p>
-    <p>Welcome to my colourful website!</p>
-</body>
-</html>
+    <p>Hi, I'm Ram from India. Currently pursuing B.Tech in Computer Science
